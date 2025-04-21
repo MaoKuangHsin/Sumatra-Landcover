@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This project investigates land cover change in **Sumatra, Indonesia** from 2012 to 2022. We analyzed deforestation patterns, agricultural expansion, fire hotspot trends, and their spatial relationships with **peatlands** and **concession boundaries** (Oil Palm and Wood Fibre). The analysis supports policy recommendations for sustainable land management and fire risk mitigation.
+This project investigates land cover change in **Sumatra, Indonesia** from 2012 to 2022. It focuses on forest loss, agricultural expansion, and fire hotspot dynamics — especially the extreme fire year **2015**, when over 250,000 hotspots were detected due to intense El Niño-driven drought. Using geospatial datasets, we analyzed how fire activity overlaps with **peatlands** and **concession boundaries** (Oil Palm and Wood Fibre), and how policy shifts around 2020 may have influenced land use trends. The findings support sustainable land management and fire risk mitigation strategies.
 
 ## 🛠️ Tools & Methods Used
 
