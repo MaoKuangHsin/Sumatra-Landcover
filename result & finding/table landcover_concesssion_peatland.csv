@@ -1,0 +1,19 @@
+"Zone","Class","Area_km2","Percentage"
+"Peatland","Agriculture",330,60.9
+"Peatland","Forest",197.3,36.4
+"Peatland","Sparse Vegetation",12.3,2.3
+"Peatland","Water",0.9,0.2
+"Peatland","Settlement",0.5,0.1
+"Peatland","Grassland",0.4,0.1
+"Wood Fiber Concession","Agriculture",272,56.6
+"Wood Fiber Concession","Forest",200.7,41.7
+"Wood Fiber Concession","Sparse Vegetation",7.7,1.6
+"Wood Fiber Concession","Water",0.3,0.1
+"Wood Fiber Concession","Grassland",0.2,0
+"Wood Fiber Concession","Settlement",0.1,0
+"Oil Palm Concession","Agriculture",247.2,76.1
+"Oil Palm Concession","Forest",74.1,22.8
+"Oil Palm Concession","Sparse Vegetation",2.3,0.7
+"Oil Palm Concession","Water",0.7,0.2
+"Oil Palm Concession","Settlement",0.3,0.1
+"Oil Palm Concession","Grassland",0,0
